@@ -1,0 +1,15 @@
+server:
+  #指定web服务端口号
+  port: 10004
+spring:
+  application:
+    name: fcs-configserver
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/qnnnd/configure
+          #git仓库地址下的相对地址，可以配置多个，用,分割。uri中已指定具体目录，所以该配置可以忽略
+          #search-paths: configure
+          username: 17092567763@163.com
+          password: APBf!Dh7
