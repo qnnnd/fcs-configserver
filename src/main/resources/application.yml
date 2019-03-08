@@ -1,5 +1,5 @@
-server:
-  #Ö¸¶¨web·şÎñ¶Ë¿ÚºÅ
+erver:
+  #æŒ‡å®šwebæœåŠ¡ç«¯å£å·
   port: 10004
 spring:
   application:
@@ -9,7 +9,7 @@ spring:
       server:
         git:
           uri: https://github.com/qnnnd/configure
-          #git²Ö¿âµØÖ·ÏÂµÄÏà¶ÔµØÖ·£¬¿ÉÒÔÅäÖÃ¶à¸ö£¬ÓÃ,·Ö¸î¡£uriÖĞÒÑÖ¸¶¨¾ßÌåÄ¿Â¼£¬ËùÒÔ¸ÃÅäÖÃ¿ÉÒÔºöÂÔ
+          #gitä»“åº“åœ°å€ä¸‹çš„ç›¸å¯¹åœ°å€ï¼Œå¯ä»¥é…ç½®å¤šä¸ªï¼Œç”¨,åˆ†å‰²ã€‚uriä¸­å·²æŒ‡å®šå…·ä½“ç›®å½•ï¼Œæ‰€ä»¥è¯¥é…ç½®å¯ä»¥å¿½ç•¥
           #search-paths: configure
           username: 17092567763@163.com
           password: APBf!Dh7
